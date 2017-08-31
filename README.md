@@ -2,9 +2,8 @@
 
 This is a [stdlib](https://stdlib.com) serverless function which recieves GitHub stars events and sends it to a [Slack](https://slack.com) channel.
 
-[![video instructions](https://user-images.githubusercontent.com/3514984/29949651-9fbd6106-8e8c-11e7-8218-3ecb9eb5cb07.png)](https://www.useloom.com/share/881f7f3d6ed0437e8afab257374fd41d)
+[![video instructions](https://www.useloom.com/share/881f7f3d6ed0437e8afab257374fd41d)
 
-https://www.useloom.com/share/881f7f3d6ed0437e8afab257374fd41d
 ## Slack
  
 Login into your Slack account to configure a new [app](https://slack.com/apps). Search for `Incoming WebHooks` and then click in **Add Configuration**.
